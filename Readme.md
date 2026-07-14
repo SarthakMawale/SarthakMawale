@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=SARTHAK" alt="Sarthak" />
+  Sarthak Mawale
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=8B9099&center=true&vCenter=true&width=650&lines=Discord+Bot+Developer;Founder+%40+Sanerex+Development;Building+AeroNova+%7C+Zenvora+%7C+LoveBiteSupport;Node.js+%7C+discord.js+v14+%7C+Python" alt="Typing SVG" />
