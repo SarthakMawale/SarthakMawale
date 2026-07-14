@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0E7490,100:22D3EE&height=180&section=header&text=SARTHAK&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=bots,%20backend%20%26%20black-cyan%20builds&descAlignY=58&descSize=18" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=SARTHAK" alt="Sarthak" />
+</h1>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Discord+Bot+Developer;Founder+%40+Sanerex+Development;Building+AeroNova+%7C+Zenvora+%7C+LoveBiteSupport;Node.js+%7C+discord.js+v14+%7C+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=8B9099&center=true&vCenter=true&width=650&lines=Discord+Bot+Developer;Founder+%40+Sanerex+Development;Building+AeroNova+%7C+Zenvora+%7C+LoveBiteSupport;Node.js+%7C+discord.js+v14+%7C+Python" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,6 @@
 
 <div align="center">
 
-<!-- Discord-card style live status -->
 <img src="https://lanyard.cnrad.dev/api/1314355595293233243?idleMessage=Building+something&theme=dark&bg=000000&animated=true&borderRadius=12px" alt="Discord status" />
 
 </div>
@@ -68,10 +67,10 @@ status:     shipping features, breaking prod occasionally
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&cache_seconds=1800" alt="bhaws's GitHub Stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=bhaws&theme=tokyonight&hide_border=true&background=000000&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaws&theme=tokyo-night&hide_border=true&bg_color=000000&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&area_color=0E7490" alt="Contribution Graph" width="85%" />
 
@@ -80,8 +79,6 @@ status:     shipping features, breaking prod occasionally
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:000000&height=100&section=footer" width="100%"/>
 
 <em>"Bots crash. I redeploy."</em>
 
