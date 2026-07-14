@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <a href="https://discord.com/users/1314355595293233243">Discord</a> •
+<img src="https://lanyard.cnrad.dev/api/1314355595293233243?idleMessage=Building+something&theme=dark&bg=000000&animated=true&borderRadius=12px" alt="Discord status" />
 
 </div>
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-bhaws-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://discord.com/users/1314355595293233243">
-  <img src="https://img.shields.io/badge/Discord-Sarthak-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+     <img src="https://lanyard.cnrad.dev/api/1314355595293233243?idleMessage=Building+something" alt="Discord status">
 </a>
 <a href="mailto:devsarthak.business@gmail.com">
   <img src="https://img.shields.io/badge/Mail-devsarthak.business-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
