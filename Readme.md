@@ -67,7 +67,7 @@ status:     shipping features, breaking prod occasionally
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&cache_seconds=1800" alt="bhaws's GitHub Stats" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&cache_seconds=1800" alt="bhaws's GitHub Stats" /> -->
 <img height="165" src="https://streak-stats.demolab.com?user=bhaws&theme=tokyonight&hide_border=true&background=000000&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br/><br/>
