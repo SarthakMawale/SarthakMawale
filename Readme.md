@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1314355595293233243?idleMessage=Building+something&theme=dark&bg=000000&animated=true&borderRadius=12px" alt="Discord status" />
+  <a href="https://discord.com/users/1314355595293233243">Discord</a> •
 
 </div>
 
