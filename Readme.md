@@ -72,7 +72,7 @@ status:     shipping features, breaking prod occasionally
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaws&theme=tokyo-night&hide_border=true&bg_color=000000&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&area_color=0E7490" alt="Contribution Graph" width="85%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaws&theme=tokyo-night&hide_border=true&bg_color=000000&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&area_color=0E7490" alt="Contribution Graph" width="85%" /> -->
 
 </div>
 
